@@ -1,0 +1,8 @@
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://compartilha.onrender.com/sitemap.xml
+# ---------------------------
+# END YOAST BLOCK
